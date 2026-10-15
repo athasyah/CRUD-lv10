@@ -1,0 +1,40 @@
+.form-control {
+    background-color: white !important;
+    padding-left: 10px !important;
+}
+.alert{
+    color: white !important;
+}
+.btn-info:hover { background-color: #004085 !important; } 
+.btn-warning:hover { background-color: #c76c00 !important; } 
+.btn-danger:hover { background-color: #900d0d !important; } 
+
+.btn-info { background-color: #0056b3 !important; } 
+.btn-warning { background-color: #d67d00 !important; } 
+.btn-danger { background-color: #b02a37 !important; } 
+
+.form-select{
+    background-color: white !important;
+}
+.navbarr,h2, h6{
+    color: white !important;
+    width: 100% !important;
+}
+.navbarr {
+    display: flex;
+    justify-content: space-between; /* Membuat elemen di kiri & kanan */
+    align-items: center; /* Menyelaraskan vertikal */
+    background: linear-gradient(135deg, #000000, #585858);
+    color: white;
+    padding: 15px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.logout {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+
